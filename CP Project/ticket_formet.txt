@@ -1,0 +1,28 @@
+			 ----------------------------------------
+			                     Ticket
+			 ----------------------------------------
+			 |Tick Number : CP000
+			 |Name : Usman Muhammad
+			 |Date : 07 Febuary
+			 |Time : 8pm
+			 |Location :  Emporium mall
+			 |Movie Name : Kick
+			 |Total price : 1300
+			 |Return amount :-200
+			 ----------------------------------------
+
+
+			 ----------------------------------------
+			                     Ticket
+			 ----------------------------------------
+			 |Tick Number : CP001
+			 |Name : Usman Muhammad
+			 |Date : 07 Febuary
+			 |Time : 8pm
+			 |Location :  Emporium mall
+			 |Movie Name : Kick
+			 |Total price : 1300
+			 |Return amount :-200
+			 ----------------------------------------
+
+
