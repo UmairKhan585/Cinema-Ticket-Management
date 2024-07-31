@@ -38,3 +38,6 @@ The code is organized with modular functions for:
 ## Dependencies
 
 - C++ compiler
+---
+
+**💻 Keep coding, keep improving—every line you write brings you closer to mastering the craft. 🚀**
